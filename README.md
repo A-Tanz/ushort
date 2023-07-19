@@ -53,5 +53,18 @@ Save the hosts file.
 
 3. I have used custom domain locally to run this for deploy it we actually have to buy a domain.
 
+## Screenshots
+1. Shortening the netflix url
+###
+![image](https://github.com/A-Tanz/ushort/assets/96045452/c160c2cf-0c98-49cf-a901-f0c99b12392f)
+###
+2. Copying the shortened url
+###
+![image](https://github.com/A-Tanz/ushort/assets/96045452/da6dcf7a-b630-43c3-aa91-e8bfff0f28e5)
+###
+3. We got redirected to netflix
+###
+![image](https://github.com/A-Tanz/ushort/assets/96045452/bc31f66f-93aa-40c9-a6c7-d2fe844c510f)
+
 
 
