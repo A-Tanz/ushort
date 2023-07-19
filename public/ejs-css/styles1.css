@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f31559;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  color: #f5f5f5;
+}
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.text-box {
+  width: 300px;
+  height: 30px;
+  resize: none;
+}
+
+html {
+  background-color: #f31559;
+}
+div {
+  background-color: #f31559;
+  margin: 50px 0 20px;
+  text-align: center;
+}
